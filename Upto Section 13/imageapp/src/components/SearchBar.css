@@ -1,0 +1,11 @@
+.button {
+  width: 100%;
+  height: 2rem;
+  background-color: rgb(12, 86, 245);
+  color: aliceblue;
+  border-radius: 0.25rem;
+}
+.button:hover {
+  transition-delay: 8ms;
+  transform: scale(1.02);
+}
